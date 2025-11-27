@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  
+  <!-- Homepage - Highest Priority -->
+  <url>
+    <loc>https://gokuldham.fun/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://gokuldham.fun/logo.png</image:loc>
+      <image:title>Gokuldham.fun - TMKOC Games & AI Chat</image:title>
+    </image:image>
+  </url>
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://gokuldham.fun/index.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://gokuldham.fun/about.html</loc>
+    <lastmod>2024-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://gokuldham.fun/store.html</loc>
+    <lastmod>2024-01-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://gokuldham.fun/contact.html</loc>
+    <lastmod>2024-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Game Pages - High Priority -->
+  <url>
+    <loc>https://gokuldham.fun/games/game1/index.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gokuldham.fun/games/game1/1.jpeg</image:loc>
+      <image:title>Run Jetha Run: The Chappal Chase Game</image:title>
+      <image:caption>Bapuji is Angry! Dodge obstacles and run through the Gokuldham society</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gokuldham.fun/games/game2/index.html</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://gokuldham.fun/games/game2/1.jpeg</image:loc>
+      <image:title>Bhide's Sakharam Rush Game</image:title>
+      <image:caption>Help Atmaram Tukaram Bhide deliver his famous Madhavi's Achar & Papad on time!</image:caption>
+    </image:image>
+  </url>
+
+  <!-- AI Chat Feature Pages -->
+  <url>
+    <loc>https://gokuldham.fun/#ai-chat</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Game Library Section -->
+  <url>
+    <loc>https://gokuldham.fun/#games</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Additional Game Assets (if any) -->
+  <url>
+    <loc>https://gokuldham.fun/games/</loc>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Character Images for SEO -->
+  <url>
+    <loc>https://gokuldham.fun/mehta.png</loc>
+    <lastmod>2024-01-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+    <image:image>
+      <image:loc>https://gokuldham.fun/mehta.png</image:loc>
+      <image:title>Taarak Mehta AI Character</image:title>
+      <image:caption>Chat with AI Taarak Mehta for life advice and shayari</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://gokuldham.fun/bapuji.png</loc>
+    <lastmod>2024-01-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+    <image:image>
+      <image:loc>https://gokuldham.fun/bapuji.png</image:loc>
+      <image:title>Champaklal Gada (Bapuji) AI Character</image:title>
+      <image:caption>Get wisdom and scolding from AI Bapuji</image:caption>
+    </image:image>
+  </url>
+
+</urlset>
