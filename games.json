@@ -12,15 +12,27 @@
     "thumbnail": "games/game2/1.jpeg"
   },
   {
-    "title": "Goli's Jalebi Heist: Sneaky Snack Attack 3D",
-    "description": "Play as the ultimate foodie Goli in this hilarious 3D challenge! Your mission: Steal the Jalebis while Jethalal reads his newspaper.",
-    "path": "games/game5/index.html",
-    "thumbnail": "games/game5/1.png"
-  },
-  {
     "title": "Bhide's Discipline Master: Gokuldham Patrol",
     "description": "Take charge as the 'Ekmeva Secretary' Bhide. Stop Tapu from breaking windows!",
     "path": "games/game4/index.html",
     "thumbnail": "games/game4/1.png"
+  },
+  {
+    "title": "Badminton with Babita",
+    "description": "Join the iconic character Babita Ji from \"Taarak Mehta Ka Ooltah Chashmah\" (TMKOC) in an exhilarating badminton adventure like never before. In \"Badminton With Babita\" you are at the center stage, controlling Babita Ji herself as she embarks on an exciting journey to become the badminton champion of Gokuldham Society!",
+    "path": "https://oolthachasma-prod-game.s3.ap-south-1.amazonaws.com/Badminton+With+Babita/index.html?game_id=48&user_id=",
+    "thumbnail": "thumnail\\badminton.png\""
+  },
+  {
+    "title": "Gokuldham Holi Mahotsav",
+    "description": "Get ready for a splash-filled Holi adventure with your favorite Taarak Mehta Ka Ooltah Chashmah characters! Choose colorful pichkaris and vibrant backgrounds, then knock opponents into the water to unlock new gear and characters. Whether you're a fan of the show or just love a lively water fight, this game promises nonstop fun!",
+    "path": "https://oolthachasma-prod-game.s3.ap-south-1.amazonaws.com/Gokuldham+Holi+Mahotsav/index.html?game_id=29&user_id=",
+    "thumbnail": "thumnail\\holi.png\""
+  },
+  {
+    "title": "Jethalal Kite Flying",
+    "description": "Get ready to take to the skies with Jethalal Champaklal Gada from \"Taarak Mehta Ka Ooltah Chashmah\" (TMKOC) in \"Jethalal's Kite Flying \" Join Jethalal in a thrilling kite-flying adventure where you'll navigate the colorful skies of Gokuldham Society, cut opponents' kites, and aim to be the ultimate kite-flying champion.",
+    "path": "https://oolthachasma-prod-game.s3.ap-south-1.amazonaws.com/Jethalal+Kite+Flying/index.html?game_id=26&user_id=",
+    "thumbnail": "thumnail\\kite.png\""
   }
 ]
